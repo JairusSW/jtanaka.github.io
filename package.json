@@ -1,0 +1,43 @@
+{
+  "name": "jairus-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for Jairus Tanaka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairusSW/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "work",
+    "website",
+    "jairus",
+    "tanaka",
+    "programmer",
+    "nodejs",
+    "javascript",
+    "web",
+    "backend",
+    "database",
+    "fastify",
+    "webassembly",
+    "rust",
+    "go",
+    "python"
+  ],
+  "author": "Jairus Tanaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JairusSW/portfolio/issues"
+  },
+  "homepage": "https://github.com/JairusSW/portfolio#readme",
+  "dependencies": {
+    "fastify": "^3.21.0",
+    "fontawesome": "^5.6.3",
+    "simple-line-icons": "^2.5.5",
+    "svg-icons": "^1.0.13"
+  }
+}
